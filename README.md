@@ -9,5 +9,7 @@ This simulator is built to test the DGP server.
 
 # Features
 -Establish TCP connection
+
 -Generate random location data
+
 -Send the random data to the server according an update timeout
